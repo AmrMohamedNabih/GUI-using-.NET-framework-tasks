@@ -1,0 +1,18 @@
+C:\Users\amr\Desktop\solved\p2\bin\Debug\p2.exe.config
+C:\Users\amr\Desktop\solved\p2\bin\Debug\p2.exe
+C:\Users\amr\Desktop\solved\p2\bin\Debug\p2.pdb
+C:\Users\amr\Desktop\solved\p2\obj\Debug\p2.csproj.AssemblyReference.cache
+C:\Users\amr\Desktop\solved\p2\obj\Debug\p2.Properties.Resources.resources
+C:\Users\amr\Desktop\solved\p2\obj\Debug\p2.csproj.GenerateResource.cache
+C:\Users\amr\Desktop\solved\p2\obj\Debug\p2.csproj.CoreCompileInputs.cache
+C:\Users\amr\Desktop\solved\p2\obj\Debug\p2.exe
+C:\Users\amr\Desktop\solved\p2\obj\Debug\p2.pdb
+C:\Users\amr\Desktop\assigmnent 1\p2\bin\Debug\p2.exe.config
+C:\Users\amr\Desktop\assigmnent 1\p2\bin\Debug\p2.exe
+C:\Users\amr\Desktop\assigmnent 1\p2\bin\Debug\p2.pdb
+C:\Users\amr\Desktop\assigmnent 1\p2\obj\Debug\p2.csproj.AssemblyReference.cache
+C:\Users\amr\Desktop\assigmnent 1\p2\obj\Debug\p2.Properties.Resources.resources
+C:\Users\amr\Desktop\assigmnent 1\p2\obj\Debug\p2.csproj.GenerateResource.cache
+C:\Users\amr\Desktop\assigmnent 1\p2\obj\Debug\p2.csproj.CoreCompileInputs.cache
+C:\Users\amr\Desktop\assigmnent 1\p2\obj\Debug\p2.exe
+C:\Users\amr\Desktop\assigmnent 1\p2\obj\Debug\p2.pdb
