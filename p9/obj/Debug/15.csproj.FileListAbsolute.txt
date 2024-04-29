@@ -1,0 +1,9 @@
+C:\Users\amr\Desktop\assigmnent _6\15\obj\Debug\15.csproj.AssemblyReference.cache
+C:\Users\amr\Desktop\assigmnent _6\15\obj\Debug\_15.Properties.Resources.resources
+C:\Users\amr\Desktop\assigmnent _6\15\obj\Debug\15.csproj.GenerateResource.cache
+C:\Users\amr\Desktop\assigmnent _6\15\obj\Debug\15.csproj.CoreCompileInputs.cache
+C:\Users\amr\Desktop\assigmnent _6\15\bin\Debug\15.exe.config
+C:\Users\amr\Desktop\assigmnent _6\15\bin\Debug\15.exe
+C:\Users\amr\Desktop\assigmnent _6\15\bin\Debug\15.pdb
+C:\Users\amr\Desktop\assigmnent _6\15\obj\Debug\15.exe
+C:\Users\amr\Desktop\assigmnent _6\15\obj\Debug\15.pdb
