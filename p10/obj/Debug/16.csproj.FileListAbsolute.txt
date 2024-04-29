@@ -1,0 +1,9 @@
+C:\Users\amr\Desktop\assigmnent _6\16\bin\Debug\16.exe.config
+C:\Users\amr\Desktop\assigmnent _6\16\bin\Debug\16.exe
+C:\Users\amr\Desktop\assigmnent _6\16\bin\Debug\16.pdb
+C:\Users\amr\Desktop\assigmnent _6\16\obj\Debug\16.csproj.AssemblyReference.cache
+C:\Users\amr\Desktop\assigmnent _6\16\obj\Debug\_16.Properties.Resources.resources
+C:\Users\amr\Desktop\assigmnent _6\16\obj\Debug\16.csproj.GenerateResource.cache
+C:\Users\amr\Desktop\assigmnent _6\16\obj\Debug\16.csproj.CoreCompileInputs.cache
+C:\Users\amr\Desktop\assigmnent _6\16\obj\Debug\16.exe
+C:\Users\amr\Desktop\assigmnent _6\16\obj\Debug\16.pdb
