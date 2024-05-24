@@ -1,0 +1,9 @@
+C:\Users\amr\Desktop\assigmnent 7\P18\bin\Debug\P18.exe.config
+C:\Users\amr\Desktop\assigmnent 7\P18\bin\Debug\P18.exe
+C:\Users\amr\Desktop\assigmnent 7\P18\bin\Debug\P18.pdb
+C:\Users\amr\Desktop\assigmnent 7\P18\obj\Debug\P18.csproj.AssemblyReference.cache
+C:\Users\amr\Desktop\assigmnent 7\P18\obj\Debug\P18.Properties.Resources.resources
+C:\Users\amr\Desktop\assigmnent 7\P18\obj\Debug\P18.csproj.GenerateResource.cache
+C:\Users\amr\Desktop\assigmnent 7\P18\obj\Debug\P18.csproj.CoreCompileInputs.cache
+C:\Users\amr\Desktop\assigmnent 7\P18\obj\Debug\P18.exe
+C:\Users\amr\Desktop\assigmnent 7\P18\obj\Debug\P18.pdb
